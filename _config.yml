@@ -1,10 +1,16 @@
 title: Favour Izebhijie # your name (or website title) here
-logo: "logo.png?raw=true" # your photo (orlogo) here
+logo: "logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Favour Izebhijie is a graduate of Computer Science, a Talented backend developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. 
-  <br><br>
-  
-  <a href="https://www.linkedin.com/in/favour-izebhijie">View My LinkedIn Profile</a> 
+Favour Izebhijie is a graduate of Computer Science, a Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction.
+
+I am fluent in classics like Javascript and Node.js.
+
+My field of interest is building new Web Technologies and Products.
+
+Whenever possible, I also apply my passion for developing products with Node.js.  
+<br><br>
+
+<a href="https://www.linkedin.com/in/favour-izebhijie">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
