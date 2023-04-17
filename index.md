@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dog API](git@github.com:ed-favour/DOG-API.git)
+<img src="dog.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Farm Project](git@github.com:ed-favour/Farm-Project.git)
+<img src="nodefarm.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[User API](git@github.com:ed-favour/Node_Express-API.git)
+<img src="user.jpg?raw=true"/>
 
 ---
 
