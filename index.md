@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Dog API](git@github.com:ed-favour/DOG-API.git)
+[Dog API](https://github.com/ed-favour/DOG-API.git)
 <img src="dog.png?raw=true"/>
 
 ---
